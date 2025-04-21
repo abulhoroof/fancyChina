@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Commercial License
 
 ## Overview
@@ -33,9 +33,9 @@ This commercial license allows you to use FancyChina in commercial projects. It'
 
 While the amount is up to you, here are some suggested amounts based on usage:
 
-- Small business/startup: $50-100
-- Medium business: $100-500
-- Large enterprise: $500+
+- Small business/startup: $5-100
+- Medium business: $50-200
+- Large enterprise: $200+
 
 These are just suggestions - any contribution is appreciated and grants you the commercial license.
 
@@ -91,4 +91,4 @@ If you're unsure, feel free to reach out at:
 ---
 
 © Hanoote – All rights reserved for commercial use.  
->>>>>>> 514736e1517e61af0bff506bc94bfc2192738ced
+
