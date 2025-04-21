@@ -1,0 +1,256 @@
+[
+
+  {
+    "title": "Well Promotion",
+    "desc": "Professional promotional products manufacturer specializing in custom bags and corporate gifts.",
+    "image": "/images/suppliers/well-promotion.jpg",
+    "imageFilename": "well-promotion.jpg",
+    "url": "https://www.wellpromotion.com",
+    "tags": ["bags"]
+  },
+  {
+    "title": "J.D. Handbag Factory",
+    "desc": "Specialized manufacturer of high-quality handbags and accessories with custom design services.",
+    "image": "/images/suppliers/jd-handbag.jpg",
+    "imageFilename": "jd-handbag.jpg",
+    "url": "https://www.jdhandbag.com",
+    "tags": ["bags", "accessories"]
+  },
+  {
+    "title": "Boshen Leather Goods",
+    "desc": "Professional manufacturer of leather goods and accessories with over 20 years of experience.",
+    "image": "/images/suppliers/boshen.jpg",
+    "imageFilename": "boshen.jpg",
+    "url": "https://www.boshenleather.com",
+    "tags": ["bags"]
+  },
+
+
+  {
+    "title": "Huantai Outdoor",
+    "desc": "Professional manufacturer of outdoor equipment and camping gear.",
+    "image": "/images/suppliers/huantai-outdoor.jpg",
+    "imageFilename": "huantai-outdoor.jpg",
+    "url": "https://www.huantaioutdoor.com",
+    "tags": ["sports & recreational"]
+  },
+
+  {
+    "title": "BFT Fitness",
+    "desc": "Professional manufacturer of fitness equipment and gym accessories.",
+    "image": "/images/suppliers/bft-fitness.jpg",
+    "imageFilename": "bft-fitness.jpg",
+    "url": "https://www.bftfitness.com",
+    "tags": ["sports & recreational"]
+  },
+
+
+  {
+    "title": "Meijia VIP Furniture",
+    "desc": "Premium denim and jeans manufacturer",
+    "image": "/images/suppliers/jua-jeans.jpg",
+    "imageFilename": "jua-jeans.jpg",
+    "url": "https://juajeans.com/",
+    "tags": ["clothing"]
+  },
+  {
+    "title": "Bao178 Bags",
+    "desc": "Quality bags and accessories",
+    "image": "/images/suppliers/bao178.jpg",
+    "imageFilename": "bao178.jpg",
+    "url": "http://www.bao178.com/",
+    "tags": ["bags", "accessories"]
+  },
+  {
+    "title": "Silverbene Jewelry",
+    "desc": "Exquisite silver jewelry collections including necklaces, rings, earrings, bracelets, and more. Professional wholesale sterling silver jewelry supplier & factory since 1994.",
+    "image": "/images/suppliers/silverbene.jpg",
+    "imageFilename": "silverbene.jpg",
+    "url": "https://silverbene.com/",
+    "tags": ["jewelry"]
+  },
+  {
+    "title": "JiuYF Second-hand Items",
+    "desc": "Quality second-hand products",
+    "image": "/images/suppliers/jiuyf.jpg",
+    "imageFilename": "jiuyf.jpg",
+    "url": "http://www.jiuyf.com/",
+    "tags": ["Others"]
+  },
+  {
+    "title": "Jiangxin BBQ",
+    "desc": "Professional barbecue equipment",
+    "image": "/images/suppliers/jiangxin-bbq.jpg",
+    "imageFilename": "jiangxin-bbq.jpg",
+    "url": "http://jiangxinbbq.com/",
+    "tags": ["kitchen"]
+  },
+
+
+
+  {
+    "title": "OBD Car Cover",
+    "desc": "High-quality car covers and accessories",
+    "image": "/images/suppliers/obdcar.jpg",
+    "imageFilename": "obdcar.jpg",
+    "url": "https://www.obdcarcover.com/",
+    "tags": ["Automotive & Industrial"]
+  },
+  {
+    "title": "China Bakeware",
+    "desc": "Professional kitchen and baking supplies",
+    "image": "/images/suppliers/bakeware.jpg",
+    "imageFilename": "bakeware.jpg",
+    "url": "http://www.chinabakeware.com/",
+    "tags": ["kitchen"] 
+  },
+  {
+    "title": "CN Chess",
+    "desc": "Premium chess sets and accessories",
+    "image": "/images/suppliers/chess.jpg",
+    "imageFilename": "chess.jpg",
+    "url": "http://www.cnchess.com/",
+    "tags": ["Others"]
+  },
+
+  {
+    "title": "Gotop Watches",
+    "desc": "Quality wristwatches and accessories",
+    "image": "/images/suppliers/watches.jpg",
+    "imageFilename": "watches.jpg",
+    "url": "http://www.gotopwatches.com/",
+    "tags": ["accessories"]
+  },
+
+  {
+    "title": "GC Porcelain",
+    "desc": "Premium ceramic tableware",
+    "image": "/images/suppliers/porcelain.jpg",
+    "imageFilename": "porcelain.jpg",
+    "url": "http://gcporcelain.com/",
+    "tags": ["kitchen"]
+  }, 
+
+
+
+  
+  {
+    "title": "Nosto Craft",
+    "desc": "Unique gifts and crafts",
+    "image": "/images/suppliers/nosto.jpg",
+    "imageFilename": "nosto.jpg",
+    "url": "http://nostocraft.com/",
+    "tags": ["Others"]
+  },
+  {
+    "title": "CN Toys",
+    "desc": "Quality toys and games",
+    "image": "/images/suppliers/cntoys.jpg",
+    "imageFilename": "cntoys.jpg",
+    "url": "http://www.ctoy.com.cn/",
+    "tags": ["Others"]
+  },
+
+
+  {
+    "title": "Caifede Candles",
+    "desc": "Professional manufacturer of scented candles, soy candles, reed diffusers and home fragrances",
+    "image": "/images/suppliers/caifede.jpg",
+    "imageFilename": "caifede.jpg",
+    "url": "https://www.caifedecandles.com/",
+    "tags": ["Others"]
+  },
+  {
+    "title": "XTFJ Home",
+    "desc": "Quality home products and furnishings",
+    "image": "/images/suppliers/xtfj.jpg",
+    "imageFilename": "xtfj.jpg",
+    "url": "http://xtfj.deng.com",
+    "tags": ["furniture"]
+  },
+  {
+    "title": "Bike Manufacturer",
+    "desc": "Professional bicycle manufacturer offering OEM/ODM services for various types of bikes including mountain bikes, road bikes, and electric bikes.",
+    "image": "/images/suppliers/bike-manufacturer.jpg",
+    "imageFilename": "bike-manufacturer.jpg",
+    "url": "https://www.bike-manufacturer.com",
+    "tags": ["sports & recreational"]
+  },
+  {
+    "title": "BFT Fitness",
+    "desc": "Professional commercial gym equipment manufacturer offering treadmills, strength training equipment, and complete gym solutions with 15+ years of experience.",
+    "image": "/images/suppliers/bft-fitness.jpg",
+    "imageFilename": "bft-fitness.jpg",
+    "url": "https://www.bftfitness.com",
+    "tags": ["sports & recreational"]
+  },
+
+  {
+    "title": "Huantai Outdoor",
+    "desc": "Manufacturer of outdoor sports equipment including camping gear, hiking equipment, and outdoor accessories.",
+    "image": "/images/suppliers/huantai-outdoor.jpg",
+    "imageFilename": "huantai-outdoor.jpg",
+    "url": "https://www.huantaioutdoor.com",
+    "tags": ["sports & recreational"]
+  },
+
+
+
+
+  {
+    "title": "J.D. Handbag Factory",
+    "desc": "Professional handbag manufacturer offering OEM/ODM services for various types of bags including clutch bags, shoulder bags, crossbody bags, and backpacks.",
+    "image": "/images/suppliers/jd-handbag.jpg",
+    "imageFilename": "jd-handbag.jpg",
+    "url": "https://www.jdhandbagfactory.com/",
+    "tags": ["bags"]
+  },
+  {
+    "title": "Boshen Leather Goods",
+    "desc": "Professional leather handbag manufacturer with 25 years of experience, specializing in women's bags, men's bags, wallets, and belts. Offering OEM/ODM services with high quality standards.",
+    "image": "/images/suppliers/boshen.jpg",
+    "imageFilename": "boshen.jpg",
+    "url": "http://www.cnboshen.com/",
+    "tags": ["clothing"]
+  },
+  {
+    "title": "Sitoy Group",
+    "desc": "Leading manufacturer of branded bridge to luxury handbags, small leather goods and travel goods. Specializing in design, research, development, manufacturing, and distribution of premium leather products.",
+    "image": "/images/suppliers/sitoy.jpg",
+    "imageFilename": "sitoy.jpg",
+    "url": "https://www.sitoy.com/en",
+    "tags": ["bags"]
+  },
+  {
+    "title": "Well Promotion",
+    "desc": "Professional manufacturer of promotional bags and custom printed bags. Offering a wide range of eco-friendly and reusable bag solutions for businesses and events.",
+    "image": "/images/suppliers/well-promotion.jpg",
+    "imageFilename": "well-promotion.jpg",
+    "url": "https://www.wellpromotion.com/",
+    "tags": ["bags"]
+  },
+  {
+    "title": "YY Sports",
+    "desc": "Leading sports retailer offering a wide range of athletic equipment, footwear, and accessories. Specializing in running gear and professional sports equipment with exclusive brand partnerships.",
+    "image": "/images/suppliers/yysports.jpg",
+    "imageFilename": "yysports.jpg",
+    "url": "https://www.yysports.com.tw/",
+    "tags": ["sports & recreational"]
+  },
+  {
+    "title": "Pou Chen Group",
+    "desc": "World's largest branded athletic and casual footwear manufacturer, offering comprehensive OEM/ODM services with specialization in R&D and supply chain integration.",
+    "image": "/images/suppliers/pouchen.jpg",
+    "imageFilename": "pouchen.jpg",
+    "url": "https://www.pouchen.com/index.php/en/business/footwear-business",
+    "tags": ["shoes", "sports & recreational"]
+  },
+  {
+    "title": "Huajian Group",
+    "desc": "Leading manufacturer of mid-to-high-end genuine leather women's shoes with production bases in China and Ethiopia. Specializes in footwear design, manufacturing, and supply chain integration.",
+    "image": "/images/suppliers/huajian.jpg",
+    "imageFilename": "huajian.jpg",
+    "url": "https://www.huajian.com/",
+    "tags": ["shoes", "manufacturing"]
+  }
+] 
